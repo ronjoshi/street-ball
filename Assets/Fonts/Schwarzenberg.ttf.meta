@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6af32ef38bdb24985888c3f7ebc54709
+timeCreated: 1563586174
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Schwarzenberg
+  fontNames:
+  - Schwarzenberg
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
